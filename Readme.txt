@@ -16,3 +16,7 @@
 	c. Sum of all numbers in an array
 	d. Return all the prime numbers in an array
 	e. Return all the palindromes in an array
+
+    Completed this task..!
+
+    Thank you so much Madam/Sir..!
