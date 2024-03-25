@@ -107,7 +107,7 @@ let medianOfArrays = function (arr1, arr2) {
 };
 console.log(medianOfArrays([1, 3, 5], [2, 4, 6]));
 
-// // IIFE
+// IIFE
 let median = (function (arr1, arr2) {
   let merged = arr1.concat(arr2);
   merged.sort((a, b) => a - b);
