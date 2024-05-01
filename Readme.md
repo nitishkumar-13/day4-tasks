@@ -1,4 +1,4 @@
-# Task4
+# Task Day4
 
 1. Do the below programs in anonymous function & IIFE
 	a. Print odd numbers in an array
